@@ -1,4 +1,3 @@
-# Team Artificial Diligence - Amazon HackOn (Season 5)
 
 ## Smart Payment Optimization
 
